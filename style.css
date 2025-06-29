@@ -1,0 +1,15 @@
+.voldemort {
+    width: 800px;
+    height: 500px;
+    border: 10px solid black;
+}
+
+.Blue {
+    background-color: blue;
+    height: 50%;
+}
+
+.Yellow {
+    background-color: yellow;
+    height: 50%;
+}
